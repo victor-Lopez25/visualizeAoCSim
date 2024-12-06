@@ -5,6 +5,13 @@ Made in [Odin](https://odin-lang.org/) using [sdl2](https://wiki.libsdl.org/SDL2
 Must have SDL2.dll in the same directory as executable, as well as input files.
 
 ## build
+
+Windows:
 ```
 build.bat
+```
+
+Linux:
+```console
+$ ./build.sh
 ```
